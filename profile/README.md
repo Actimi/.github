@@ -1,0 +1,1 @@
+Actimi is a flexible, secure and standards based telemonitoring platform. It supports storage and processing of various vital sign monitoring devices, streaming devices and configurable questionnaires.
